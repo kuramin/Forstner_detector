@@ -1,0 +1,49 @@
+﻿  Forstner_kpts_detector_main.cpp
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(43): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(42): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(41): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(95): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(94): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(93): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(160): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(159): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(158): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(156): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(155): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\txtreader.h(154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(177): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(185): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(301): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(304): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(307): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(310): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(329): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(339): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(340): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(341): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(364): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(436): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lenovo\source\repos\forstner_kpts_detector\forstner_kpts_detector_main.cpp(491): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 918 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Forstner_kpts_detector.vcxproj -> C:\Users\LENOVO\source\repos\Forstner_kpts_detector\Forstner_kpts_detector\x64\Release\Forstner_kpts_detector.exe
