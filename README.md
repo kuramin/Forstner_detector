@@ -10,11 +10,11 @@
 	<img src="Result_rect_RGB.PNG" width = "500">
 	<img src="Result_proj_RGB.PNG" width = "500"> <br> <br>
 	Then detection of keypoints is performed on two scans of the same object. The following image shows keypoints of images and found matches:
-	<img src="forstner_rooms.PNG">
+	<img src="forstner_rooms.PNG"> <br> <br>
 	<p>After the definition of matching points the corresponding keypoints were found in the 3D point clouds. Thus, parameters of transformation between two point clouds were calculated. Application of these parameters as initial registration for ICP algorithm gives the following accurate result:</p>
-	<img src="forstner_registration_precise.PNG">	
+	<img src="forstner_registration_precise.PNG"> <br> <br>
 	<p>Algorithm itself, it's application and results are presented in a scientific article which was written by me and can be downloaded as a pdf-file: </p> 
-	<p><a href="https://gitlab.tubit.tu-berlin.de/kuramin/forstner_keypoints_detector/tree/master/images/Ransac.pdf">Algorithm of intensity based registration for terrestrial laser scans.pdf</a> </p>
+	<p><a href="https://gitlab.tubit.tu-berlin.de/kuramin/forstner_keypoints_detector/tree/master/images/Keypont_detection.pdf">Algorithm of intensity based registration for terrestrial laser scans.pdf</a> </p>
 	<p>Code in C++ can be found on <a href="https://gitlab.tubit.tu-berlin.de/users/kuramin/projects">my Gitlab repository</a>.Execution of this project on the computer requires presence of OpenCV library.</p>
 </body>
 </html>
