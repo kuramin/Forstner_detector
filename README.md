@@ -14,7 +14,7 @@
 	<p>After the definition of matching points the corresponding keypoints were found in the 3D point clouds. Thus, parameters of transformation between two point clouds were calculated. Application of these parameters as initial registration for ICP algorithm gives the following accurate result:</p>
 	<img src="forstner_registration_precise.PNG"> <br> <br>
 	<p>Algorithm itself, it's application and results are presented in a scientific article which was written by me and can be downloaded as a pdf-file: </p> 
-	<p><a href="https://gitlab.tubit.tu-berlin.de/kuramin/forstner_keypoints_detector/blob/master/Keypont_detection.pdf">Algorithm of intensity based registration for terrestrial laser scans.pdf</a> </p>
+	<p><a href="https://github.com/kuramin/Forstner_detector/blob/master/Keypont_detection.pdf">Algorithm of intensity based registration for terrestrial laser scans.pdf</a> </p>
 	<p>Execution of the project is started by running the .bat-file which specifies required input paths. <br>
 	Execution of this project requires presence of the OpenCV library.</p>
 </body>
